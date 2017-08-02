@@ -19,13 +19,10 @@
   <!-- Label to show to user for this package. -->
   <!-- Description line for music artists in the search/suggestion results -->
   <!-- Choice in the ringtone picker.  If chosen, the default ringtone will be used. -->
-  <string name="ringtone_default">Timbre por defeutu</string>
   <!-- Choice in the notification sound picker.  If chosen, the default notification sound will be
          used. -->
   <!-- Choice in the alarm sound picker.  If chosen, the default alarm sound will be used. -->
   <!-- Title for documents backend that offers images. [CHAR LIMIT=24] -->
-  <string name="root_images">Imáxenes</string>
   <!-- Title for documents backend that offers videos. [CHAR LIMIT=24] -->
-  <string name="root_videos">Vídeos</string>
   <!-- Title for documents backend that offers audio. [CHAR LIMIT=24] -->
 </resources>
